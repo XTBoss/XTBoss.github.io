@@ -119,5 +119,3 @@ exclude:
   - README.md
   - CNAME
 
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-T1GL87249H
