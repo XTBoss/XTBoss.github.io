@@ -64,7 +64,7 @@ disqus: # fromendworld
 # Gitalk
 gitalk:
   clientID: baf6f008fc6e6b4f92e7
-  clientSecret: d58d289e1e6b1ddf077281079a3c33ae8a38b26c
+  clientSecret: 3d4d09b2c5e3e99b2b72589eb7d3a4f6bad6aba2
   repo: XTBoss.github.io
   owner: XTBoss
 
